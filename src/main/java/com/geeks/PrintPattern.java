@@ -1,4 +1,4 @@
-package com.geeks.math;
+package com.geeks;
 
 //https://practice.geeksforgeeks.org/problems/print-the-pattern-set-1/1
 public class PrintPattern {
